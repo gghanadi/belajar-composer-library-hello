@@ -1,0 +1,19 @@
+{
+    "name": "gannets_ghanadi/belajar_php_composer",
+    "description": "Belajar PHP Composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "GannetsGhanadi\\" : "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gannets",
+            "email": "gannetnadi@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog" :"2.2.0"
+    }
+}
