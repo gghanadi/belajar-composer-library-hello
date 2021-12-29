@@ -2,46 +2,22 @@
     'root' => array(
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'type' => 'project',
+        'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'reference' => '36cd51770721ecaf6d4f131adaa090823ddcb0c4',
-        'name' => 'gannets_ghanadi/belajar_php_composer',
+        'name' => 'gannetsghanadi/belajar-php-composer-hello',
         'dev' => true,
     ),
     'versions' => array(
-        'gannets_ghanadi/belajar_php_composer' => array(
+        'gannetsghanadi/belajar-php-composer-hello' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'type' => 'project',
+            'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
             'reference' => '36cd51770721ecaf6d4f131adaa090823ddcb0c4',
             'dev_requirement' => false,
-        ),
-        'monolog/monolog' => array(
-            'pretty_version' => '2.2.0',
-            'version' => '2.2.0.0',
-            'type' => 'library',
-            'install_path' => __DIR__ . '/../monolog/monolog',
-            'aliases' => array(),
-            'reference' => '1cb1cde8e8dd0f70cc0fe51354a59acad9302084',
-            'dev_requirement' => false,
-        ),
-        'psr/log' => array(
-            'pretty_version' => '1.1.4',
-            'version' => '1.1.4.0',
-            'type' => 'library',
-            'install_path' => __DIR__ . '/../psr/log',
-            'aliases' => array(),
-            'reference' => 'd49695b909c3b7628b6289db5479a1c204601f11',
-            'dev_requirement' => false,
-        ),
-        'psr/log-implementation' => array(
-            'dev_requirement' => false,
-            'provided' => array(
-                0 => '1.0.0',
-            ),
         ),
     ),
 );

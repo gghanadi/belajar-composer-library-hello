@@ -1,10 +1,10 @@
 {
-    "name": "gannets_ghanadi/belajar_php_composer",
-    "description": "Belajar PHP Composer",
-    "type": "project",
+    "name": "gannetsghanadi/belajar-php-composer-hello",
+    "description": "Library Composer Hello",
+    "type": "library",
     "autoload": {
         "psr-4": {
-            "GannetsGhanadi\\" : "src/"
+            "Gannetsghanadi\\BelajarPhpComposerHello\\": "src/"
         }
     },
     "authors": [
@@ -14,6 +14,6 @@
         }
     ],
     "require": {
-        "monolog/monolog" :"2.2.0"
+        "php": ">=8.0"
     }
 }
