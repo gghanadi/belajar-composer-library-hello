@@ -1,6 +1,6 @@
 <?php
 
-namespace Gannetsghanadi\Belajar;
+namespace Gannetsghanadi\BelajarComposer;
 
 class Customer {
 

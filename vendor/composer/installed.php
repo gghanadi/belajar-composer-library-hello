@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '36cd51770721ecaf6d4f131adaa090823ddcb0c4',
+        'reference' => '2635192549f81ee5f74fd8990d72b060724742aa',
         'name' => 'gannetsghanadi/belajar-php-composer-hello',
         'dev' => true,
     ),
     'versions' => array(
         'gannetsghanadi/belajar-php-composer-hello' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '36cd51770721ecaf6d4f131adaa090823ddcb0c4',
+            'reference' => '2635192549f81ee5f74fd8990d72b060724742aa',
             'dev_requirement' => false,
         ),
     ),

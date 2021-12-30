@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Gannetsghanadi\\BelajarPhpComposerHello\\' => array($baseDir . '/src'),
+    'Gannetsghanadi\\BelajarComposer\\' => array($baseDir . '/src'),
 );
